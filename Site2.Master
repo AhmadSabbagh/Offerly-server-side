@@ -1,0 +1,100 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="orgproject.Site2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Offerly</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="image/Refresh.css" type="text/css" />
+    <style type="text/css">
+        .auto-style1 {
+            height: 42px;
+        }
+    </style>
+</head>
+<body>
+<div id="wrap">
+  <div id="header">
+    <h1 id="logo-text">Offerly</h1>
+    <h2 id="slogan">put your site slogan here...</h2>
+    <form class="search" method="post" action="#">
+      <p>
+        <input class="textbox" type="text" name="search_query" value="" />
+        <input class="button" type="submit" name="Submit" value="Search" />
+      </p>
+    </form>
+  </div>
+  <div  id="menu" class="auto-style1">
+    <ul>
+      <li id="current"><a href="Home.aspx">Home</a></li>
+      <li><a href="#">account</a></li>
+      <li><a href="#">agent Permissions</a></li>
+      <li><a href="#">statistics</a></li>
+      <li><a href="#">Complaints</a></li>
+    </ul>
+  </div>
+  <div id="content-wrap">
+    <div id="sidebar">
+      
+      <div class="left-box">
+        <ul class="sidemenu">
+          <li><a href="#">Complaints menu</a></li>
+          <li><a href="#TemplateInfo">Popup ad system</a></li>
+          <li><a href="#SampleTags">Customer Tracking System</a></li>
+          <li><a href="#">add hot offer</a></li>
+          <li><a href="#">add hot event</a></li>
+        </ul>
+      </div>
+      <div class="left-box">
+        <ul class="sidemenu">
+          <li><a href="#">agent Permissions</a></li>
+          <li><a href="#">customers Classification system</a></li>
+          <li><a href="#">Manage customer offers </a></li>
+          <li><a href="#">Management Accounts</a></li>
+          <li><a href="#">Comments and evaluation</a></li>
+          <li><a href="#">data detailing </a></li>
+          <li><a href="#"> birthdays  </a></li>
+          <li><a href="#">Feast of Marriage </a></li>
+          <li><a href="#">Child birthdays</a></li>
+          <li><a href="#">Send news or offer to the customer</a></li>
+          <li><a href="#">Send an offer to the customer by geographical location </a></li>
+          <li><a href="#">Points for customers</a></li>
+          <li><a href="#">Agent Classification system</a></li>
+        </ul>
+      </div>
+      <h1>Wise Words</h1>
+      <div class="left-box">
+          <br />
+          <br />
+          <br />
+          <br />
+      </div>
+      <h1>&nbsp;</h1>
+      <div class="left-box">
+        <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+      </div>
+    </div>
+    <div id="main"> 
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <p>
+                <br />
+            </p>
+            <p>
+            </p>
+        </asp:ContentPlaceHolder>
+      <br />
+    </div>
+  </div>
+    
+
+  <div id="footer">
+    <p> &copy; 2006 <strong>Your Company</strong> | Design by: <a href="http://www.styleshout.com/">styleshout</a> | Valid <a href="http://validator.w3.org/check?uri=referer">XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#">Home</a>&nbsp;|&nbsp; <a href="#">Sitemap</a>&nbsp;|&nbsp; <a href="#">Home</a> </p>
+  </div>
+</div>
+</body>
+</html>

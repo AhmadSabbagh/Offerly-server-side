@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\New folder (5)</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="addofferagent.aspx">
+      <publishTime>12/13/2017 12:56:22</publishTime>
+    </File>
+    <File Include="admin.aspx">
+      <publishTime>12/13/2017 10:30:54</publishTime>
+    </File>
+    <File Include="admin_permissions.aspx">
+      <publishTime>11/29/2017 11:04:00</publishTime>
+    </File>
+    <File Include="advert.aspx">
+      <publishTime>12/12/2017 14:23:46</publishTime>
+    </File>
+    <File Include="advert1.aspx">
+      <publishTime>11/18/2017 15:06:38</publishTime>
+    </File>
+    <File Include="agent_offer.aspx">
+      <publishTime>12/14/2017 17:00:42</publishTime>
+    </File>
+    <File Include="agent_offer2.aspx">
+      <publishTime>10/24/2017 15:20:30</publishTime>
+    </File>
+    <File Include="agent_permissions.aspx">
+      <publishTime>11/30/2017 10:11:02</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>08/26/2017 12:33:48</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>08/26/2017 12:33:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>11/30/2016 17:07:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>12/07/2016 12:45:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>12/07/2016 12:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>12/06/2016 16:15:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>12/07/2016 12:49:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>12/07/2016 12:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>12/06/2016 16:09:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 03:06:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 21:33:56</publishTime>
+    </File>
+    <File Include="bin/orgproject.dll">
+      <publishTime>12/16/2017 12:15:24</publishTime>
+    </File>
+    <File Include="bin/orgproject.pdb">
+      <publishTime>12/16/2017 12:15:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 21:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 04:03:46</publishTime>
+    </File>
+    <File Include="brithday_offer.aspx">
+      <publishTime>12/13/2017 11:55:26</publishTime>
+    </File>
+    <File Include="brithday_offer2.aspx">
+      <publishTime>12/01/2017 15:42:44</publishTime>
+    </File>
+    <File Include="Categorieagent.aspx">
+      <publishTime>12/13/2017 12:34:40</publishTime>
+    </File>
+    <File Include="Categorieagent1.aspx">
+      <publishTime>10/27/2017 11:11:12</publishTime>
+    </File>
+    <File Include="comment.aspx">
+      <publishTime>11/10/2017 06:12:02</publishTime>
+    </File>
+    <File Include="comment2.aspx">
+      <publishTime>11/18/2017 15:26:30</publishTime>
+    </File>
+    <File Include="css/Style.css">
+      <publishTime>08/26/2017 12:35:00</publishTime>
+    </File>
+    <File Include="css/style1.css">
+      <publishTime>10/16/2017 08:11:20</publishTime>
+    </File>
+    <File Include="css/styles.css">
+      <publishTime>10/16/2017 12:13:16</publishTime>
+    </File>
+    <File Include="customer_classification1.aspx">
+      <publishTime>12/13/2017 10:00:30</publishTime>
+    </File>
+    <File Include="customer_classification2.aspx">
+      <publishTime>10/28/2017 12:49:24</publishTime>
+    </File>
+    <File Include="dal/customer.asmx">
+      <publishTime>10/30/2017 12:38:14</publishTime>
+    </File>
+    <File Include="dal/login.asmx">
+      <publishTime>11/11/2017 12:47:44</publishTime>
+    </File>
+    <File Include="dragdata.aspx">
+      <publishTime>12/13/2017 11:04:16</publishTime>
+    </File>
+    <File Include="dragdata2.aspx">
+      <publishTime>11/18/2017 15:32:24</publishTime>
+    </File>
+    <File Include="help/defult.aspx">
+      <publishTime>10/05/2017 17:01:54</publishTime>
+    </File>
+    <File Include="help/department.aspx">
+      <publishTime>10/16/2017 15:31:52</publishTime>
+    </File>
+    <File Include="help/employee.aspx">
+      <publishTime>10/16/2017 09:45:52</publishTime>
+    </File>
+    <File Include="help/location.aspx">
+      <publishTime>10/05/2017 17:01:54</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>12/01/2017 15:24:10</publishTime>
+    </File>
+    <File Include="Home1.aspx">
+      <publishTime>11/07/2017 11:10:50</publishTime>
+    </File>
+    <File Include="hot_event.aspx">
+      <publishTime>12/12/2017 14:47:12</publishTime>
+    </File>
+    <File Include="hot_event2.aspx">
+      <publishTime>11/20/2017 16:24:40</publishTime>
+    </File>
+    <File Include="hot_offer.aspx">
+      <publishTime>12/12/2017 14:33:20</publishTime>
+    </File>
+    <File Include="hot_offer2.aspx">
+      <publishTime>11/20/2017 15:15:02</publishTime>
+    </File>
+    <File Include="image/clock.gif">
+      <publishTime>10/22/2017 11:24:38</publishTime>
+    </File>
+    <File Include="image/comment.gif">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/content.jpg">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/firefox-gray.jpg">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/footer.jpg">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/go.gif">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/header.jpg">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/headerbg.gif">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/menu.jpg">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/page.gif">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/quote.gif">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/Refresh.css">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="image/square-green.png">
+      <publishTime>10/22/2017 11:24:40</publishTime>
+    </File>
+    <File Include="images/bullet.gif">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/button-bg.jpg">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/clock.gif">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/comment.gif">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/content.jpg">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/dots.jpg">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/Envision.css">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/firefox-gray.jpg">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/footer.jpg">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/header.jpg">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/menu.jpg">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/page.gif">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/quote.gif">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="images/square-green.png">
+      <publishTime>10/21/2017 17:01:36</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>10/21/2017 17:01:34</publishTime>
+    </File>
+    <File Include="js/JavaScript.js">
+      <publishTime>08/26/2017 12:35:44</publishTime>
+    </File>
+    <File Include="js/scripts.js">
+      <publishTime>10/16/2017 08:11:56</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>12/10/2017 20:46:08</publishTime>
+    </File>
+    <File Include="map.aspx">
+      <publishTime>12/10/2017 16:07:32</publishTime>
+    </File>
+    <File Include="mapbranch.aspx">
+      <publishTime>12/12/2017 10:24:46</publishTime>
+    </File>
+    <File Include="maptrack.aspx">
+      <publishTime>12/12/2017 15:39:58</publishTime>
+    </File>
+    <File Include="offermap.aspx">
+      <publishTime>12/12/2017 10:43:02</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/29/2017 10:11:28</publishTime>
+    </File>
+    <File Include="picture.aspx">
+      <publishTime>12/15/2017 17:52:38</publishTime>
+    </File>
+    <File Include="point_customer.aspx">
+      <publishTime>12/13/2017 12:08:24</publishTime>
+    </File>
+    <File Include="point_customer2.aspx">
+      <publishTime>11/20/2017 16:40:12</publishTime>
+    </File>
+    <File Include="priv.aspx">
+      <publishTime>11/07/2017 12:31:34</publishTime>
+    </File>
+    <File Include="profile.aspx">
+      <publishTime>12/13/2017 14:29:10</publishTime>
+    </File>
+    <File Include="register.aspx">
+      <publishTime>12/12/2017 09:16:56</publishTime>
+    </File>
+    <File Include="register2.aspx">
+      <publishTime>12/01/2017 15:42:44</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>12/12/2017 15:12:56</publishTime>
+    </File>
+    <File Include="Site2.Master">
+      <publishTime>11/21/2017 15:57:02</publishTime>
+    </File>
+    <File Include="Site3.Master">
+      <publishTime>11/01/2017 12:09:42</publishTime>
+    </File>
+    <File Include="statistics.aspx">
+      <publishTime>11/25/2017 13:50:56</publishTime>
+    </File>
+    <File Include="suggestion_complint.aspx">
+      <publishTime>11/02/2017 19:39:30</publishTime>
+    </File>
+    <File Include="suggestion_complint2.aspx">
+      <publishTime>11/20/2017 16:47:20</publishTime>
+    </File>
+    <File Include="test.aspx">
+      <publishTime>11/11/2017 10:31:32</publishTime>
+    </File>
+    <File Include="test2.aspx">
+      <publishTime>11/15/2017 14:28:54</publishTime>
+    </File>
+    <File Include="tracking.aspx">
+      <publishTime>12/12/2017 14:33:20</publishTime>
+    </File>
+    <File Include="tracking2.aspx">
+      <publishTime>11/20/2017 16:51:48</publishTime>
+    </File>
+    <File Include="users.aspx">
+      <publishTime>10/05/2017 17:13:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/16/2017 12:15:32</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>10/22/2017 14:12:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

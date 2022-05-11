@@ -1,0 +1,284 @@
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\orgproject.dll.config
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\orgproject.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\orgproject.pdb
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\obj\Debug\orgproject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\obj\Debug\orgproject.dll
+C:\Users\Admin\Desktop\Company\orgproject\orgproject\obj\Debug\orgproject.pdb
+C:\Users\amer\Desktop\orgproject\orgproject\orgproject\obj\Debug\orgproject.csprojResolveAssemblyReference.cache
+C:\Users\amer\Desktop\orgproject\orgproject\orgproject\obj\Debug\orgproject.dll
+C:\Users\amer\Desktop\orgproject\orgproject\orgproject\obj\Debug\orgproject.pdb
+D:\orgproject\orgproject\orgproject\obj\Debug\orgproject.csprojResolveAssemblyReference.cache
+D:\orgproject\orgproject\orgproject\obj\Debug\orgproject.dll
+D:\orgproject\orgproject\orgproject\obj\Debug\orgproject.pdb
+D:\orgproject\orgproject\orgproject\bin\ApplicationInsights.config
+D:\orgproject\orgproject\orgproject\bin\roslyn\csc.exe
+D:\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\orgproject\orgproject\orgproject\bin\roslyn\System.Collections.Immutable.dll
+D:\orgproject\orgproject\orgproject\bin\roslyn\System.Reflection.Metadata.dll
+D:\orgproject\orgproject\orgproject\bin\roslyn\vbc.exe
+D:\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe
+D:\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe.config
+D:\orgproject\orgproject\orgproject\bin\orgproject.dll.config
+D:\orgproject\orgproject\orgproject\bin\orgproject.dll
+D:\orgproject\orgproject\orgproject\bin\orgproject.pdb
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.dll
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.dll
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.dll
+D:\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.dll
+D:\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.xml
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.xml
+D:\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.xml
+D:\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.xml
+D:\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\ApplicationInsights.config
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\csc.exe
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\vbc.exe
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\orgproject.dll.config
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\orgproject.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\orgproject.pdb
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.xml
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.xml
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.xml
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.xml
+D:\New folder (2)\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder (2)\orgproject\orgproject\orgproject\obj\Debug\orgproject.csprojResolveAssemblyReference.cache
+D:\New folder (2)\orgproject\orgproject\orgproject\obj\Debug\orgproject.dll
+D:\New folder (2)\orgproject\orgproject\orgproject\obj\Debug\orgproject.pdb
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\obj\Debug\orgproject.csprojResolveAssemblyReference.cache
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\obj\Debug\orgproject.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\obj\Debug\orgproject.pdb
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\ApplicationInsights.config
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\csc.exe
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\vbc.exe
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\orgproject.dll.config
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\orgproject.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\orgproject.pdb
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.xml
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lap 2 -2017\Desktop\my Courses\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\orgproject.dll.config
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\orgproject.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\orgproject.pdb
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.dll
+C:\Users\Admin\Desktop\New folder (5)\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.pdb
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\ApplicationInsights.config
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\csc.exe
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\vbc.exe
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\orgproject.dll.config
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\orgproject.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\orgproject.pdb
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.xml
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.csprojResolveAssemblyReference.cache
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.dll
+C:\Users\amer\Desktop\working with sql\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.pdb
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\ApplicationInsights.config
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\csc.exe
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\System.Collections.Immutable.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\System.Reflection.Metadata.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\vbc.exe
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe.config
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\orgproject.dll.config
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\orgproject.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\orgproject.pdb
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Agent.Intercept.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.csprojResolveAssemblyReference.cache
+J:\final\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.csproj.CoreCompileInputs.cache
+J:\final\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.pdb
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\ApplicationInsights.config
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\csc.exe
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\System.Collections.Immutable.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\System.Reflection.Metadata.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\vbc.exe
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\roslyn\VBCSCompiler.exe.config
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\orgproject.dll.config
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\orgproject.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\orgproject.pdb
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Agent.Intercept.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.DependencyCollector.xml
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.Web.xml
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.AI.WindowsServer.xml
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.ApplicationInsights.xml
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\final\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.csprojResolveAssemblyReference.cache
+I:\final\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\obj\Debug\orgproject.pdb
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Newtonsoft.Json.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Net.Http.Formatting.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Web.Http.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Web.Http.WebHost.dll
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\Newtonsoft.Json.xml
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Net.Http.Formatting.xml
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Web.Http.xml
+I:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Web.Http.WebHost.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Newtonsoft.Json.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Net.Http.Formatting.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Web.Http.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Web.Http.WebHost.dll
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\Newtonsoft.Json.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Net.Http.Formatting.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Web.Http.xml
+J:\final\orgproject\orgproject\orgproject\orgproject\bin\System.Web.Http.WebHost.xml

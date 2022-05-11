@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="orgproject.Site1" %>
+
+<!DOCTYPE html>
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Offerly</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="images/Envision.css" type="text/css" />
+    <style type="text/css">
+        .auto-style1 {
+            left: 2px;
+            top: 5px;
+            width: 818px;
+        }
+        .auto-style2 {
+            height: 60px;
+        }
+        .auto-style3 {
+            height: 106px;
+        }
+        h2 {
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: lighter;
+}
+        h1 {
+    font-size: 40px;
+}
+    </style>
+</head>
+<body>
+<div id="wrap">
+  <div id="header" class="auto-style1">
+    <h1 id="logo-text"> Offerly  </h1>
+    <h2 id="slogan">...</h2>
+    <div id="header-links">
+      <p> <a href="Home.aspx">الرئيسيه</a> | <a href="Home1.aspx">English</a> | <a href="Login.aspx">خروج</a> </p>
+    </div>
+  </div>
+  <div  id="menu">
+    <ul>
+      <li id="current"><a href="Home.aspx">حول الموقع</a></li>
+      <li><a href="suggestion_complint.aspx">الشكاوي</a></li>
+      <li><a href="statistics.aspx">احصائيات</a></li>
+      <li><a href="agent_permissions.aspx">صلاحيات العملاء</a></li>
+      <li><a href="Home.aspx">حســـابي</a></li>
+      <li class="last"><a href="Home.aspx">الرئيسيه</a></li>
+    </ul>
+  </div>
+  <div id="content-wrap">
+    <div id="sidebar">
+      
+     
+      
+      <ul class="sidemenu">
+        <li><a href="statistics.aspx"><h2>قائمة الاحصائيات</h2></a></li>
+        <li><a href="advert.aspx"><h2>نظام الاعلانات المنبثقه</h2></a></li>
+        <li><a href="tracking.aspx"><h2>نظام تتبع الزبون</h2></a></li>
+        <li><a href="hot_offer.aspx"> <h2>hot offer اضافة</h2></a></li>
+        <li><a href="hot_event.aspx"> <h2>hot event اضافة</h2></a></li>
+        <li><a href="product.aspx"> <h2>Product اضافة</h2></a></li>
+        <li><a href="register.aspx"><h2>ادراة حسابات العملاء</h2></a> </li>
+        <li><a href="customer_classification1.aspx"><h2>نظام تصنيف الزبائن</h2></a></li>
+        <li><a href="agent_offer.aspx"><h2>ادارة عروض العملاء</h2></a></li>
+        <li><a href="admin.aspx"><h2>حسابات الاداره</h2></a></li>
+        <li><a href="comment.aspx"><h2>التعليقات والتقييم</h2></a></li>
+        <li><a href="dragdata.aspx"><h2>نظام البيانات وتفصيلها</h2></a></li>
+     
+        <li><a href="brithday_offer.aspx"><h2>نظام اعياد الميلاد </h2></a> </li>
+        <li><a href="brithday_offer.aspx"><h2>نظام اعياد الزواج</h2></a> </li>
+        <li><a href="maptrack.aspx"><h2>تتبع الزبائن على الخريطه</h2></a> </li>
+        <li><a href="picture.aspx"><h2>اضافة صور</h2></a></li>
+        <li><a href="offermap.aspx"><h2>ارسال عرض للزبون حسب الموقع الجغرافي</h2></a> </li>
+        <li><a href="point_customer.aspx"><h2>نظام النقاط للزبائن</h2></a> </li>
+          <li><a href="Categorieagent.aspx"><h2>نظام تصنيف العملاء</h2></a> </li>
+      </ul>
+      <h1>معلومات</h1>
+      <div class="left-box">
+        <p class="auto-style2">كتابةاي معلومات لاحقا&nbsp; </p>
+          <p>ا&nbsp; </p>
+        <p class="align-right">&nbsp;</p>
+      </div>
+      <h1>نبذه او وصف للموقع</h1>
+      <div class="left-box">
+        <p class="auto-style3">كتابة اي وصف لاحقا</p>
+      </div>
+    </div>
+    <div id="main"> 
+        <form action="#">
+
+            
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+   
+        </p>
+                <p>
+   
+        </p>
+      </form>
+        
+        
+      <br />
+    </div>
+  </div>
+  <div id="footer">
+    <p> &copy; 2017 <strong>Your Company</strong> | Design by: <a href="#">الاستقرار</a> | Valid <a href="#">XHTML</a> | <a href="#">CSS</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="Home.aspx">الرئيسيه</a>&nbsp;|&nbsp; <a href="#">تواصل معنا</a>&nbsp;|&nbsp; <a href="Login.aspx">خروج</a> </p>
+  </div>
+</div>
+</body>
+</html>
+
+
+   
+        
